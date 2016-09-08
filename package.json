@@ -1,0 +1,27 @@
+{
+  "name": "newspark-ui",
+  "version": "1.0.0",
+  "description": "Newspark web frontend",
+  "main": "index.js",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server -c bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolodato/newspark-ui.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rolodato/newspark-ui/issues"
+  },
+  "homepage": "https://github.com/rolodato/newspark-ui#readme",
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "picnic": "^6.1.5"
+  }
+}
